@@ -20,14 +20,7 @@ Commands
   dotnet new [template] --output [nameproject]
   dotnet sln [namesolution] add [nameproject]
 ```
-    
-## Stack utilizada
-
-**Front-end:** React
-
-**Back-end:** .Net 6 - Web API
-
-
+  
 ## Rodando os testes
 
 Para rodar os testes, rode o seguinte comando
